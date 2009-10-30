@@ -2,9 +2,8 @@
 #labels Featured,Phase-Deploy,Phase-Implementation
 
 = Requirements\Specifications =
-
-* PHP 5
-* MySQL 4.0-5.0 (6.0 possible, but not tested at this stage).
+  * PHP 5
+  * MySQL 4.0-5.0 (6.0 possible, but not tested at this stage).
 
 
 = Installation =
